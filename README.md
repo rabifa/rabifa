@@ -6,7 +6,7 @@ At the technological college I studied Games, yes I studied how to make games, a
 
 I’m currently learning HTML, CSS, JavaScript (and codes that use JS like Node.js, React.js... but slowly of course), yeah I learned those codes at the college, but I stoped there.
 
-- 📫 How to reach me: @raphael_faria
+How to reach me: @raphael_faria
 
 <!--
 **rabifa/rabifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
