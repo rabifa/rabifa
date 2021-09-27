@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work as paid traffic manager in a agency... yeah, I'm the guy that put those advertising in front of your screen.
+I currently work as paid traffic manager in an agency... yeah, I'm the guy that put those advertising in front of your screen.
 
 At the technological college I studied Games, yes I studied how to make games, all the process and stuffs like that.
 
