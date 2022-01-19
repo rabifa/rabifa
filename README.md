@@ -4,7 +4,7 @@ I currently work as paid traffic manager in an agency... yeah, I'm the guy that 
 
 At the technological college I studied Games, yes I studied how to make games, all the process and stuffs like that.
 
-I’m currently learning HTML, CSS, JavaScript (and codes that use JS like Node.js, React.js... but slowly of course), yeah I learned those codes at the college, but I stoped there.
+I’m currently learning HTML, CSS, JavaScript (and codes that use JS like Node.js, React.js... but slowly), I learned those codes at the college, but I stoped there.
 
 How to reach me: @raphael_faria
 
